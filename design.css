@@ -1,6 +1,6 @@
 header       { position: relative; left: 0; top: 0; width:100%;}
 
-body        {background-color: #0C012A; margin: 0 0 0 0; }
+body        {background-image:"menu_light_on_01.gif"; margin: 0 0 0 0; }
 
 h1          {font-family: "Cambria", sans-serif; font-size: x-large;
             color: whitesmoke; -webkit-text-stroke: 1px deepskyblue; margin-left: 5%; margin-top: 5%;}

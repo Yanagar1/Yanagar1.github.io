@@ -3,13 +3,13 @@ header       { position: relative; left: 0; top: 0; width:100%;}
 body        {background-image: url("menu_light_on_01.gif"); width:100%; margin: 0 0 0 0; }
 
 h1          {font-family: "Cambria", sans-serif; font-size: x-large;
-            color: black; -webkit-text-stroke: 1px deepskyblue; margin-left: 5%; margin-top: 5%;}
+            color: deepskyblue; -webkit-text-stroke: 1px white; margin-left: 5%; margin-top: 5%;}
 
 
 a          {font-family: "Cambria", sans-serif; color: black; }
 
 p           {font-family: "Cambria", sans-serif; font-size: large;
-             color: black; line-height: 220%;}
+             color: deepskyblue; -webkit-text-stroke: 1px white; line-height: 220%;}
 
 
 .block      {display:block; float: left; }

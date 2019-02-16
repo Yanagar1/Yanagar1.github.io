@@ -9,7 +9,7 @@ h1          {font-family: "Cambria", sans-serif; font-size: x-large;
 a          {font-family: "Cambria", sans-serif; color: darkblue; -webkit-text-stroke: 0.5px white; }
 
 p           {font-family: "Cambria", sans-serif; font-size: large;
-             color: darkblue; -webkit-text-stroke: 0.5px white; line-height: 220%;}
+             color: deepskyblue; -webkit-text-stroke: 0.5px white; line-height: 220%;}
 
 
 .block      {display:block; float: left; }

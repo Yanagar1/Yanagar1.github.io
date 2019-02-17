@@ -6,7 +6,7 @@ h1          {font-family: "Cambria", sans-serif; font-size: x-large;
             color: deepskyblue; -webkit-text-stroke: 1px white; margin-left: 5%; margin-top: 5%;}
 
 
-a          {font-family: "Cambria", sans-serif; color: deepskyblue; -webkit-text-stroke: 0.5px white; }
+a          {font-family: "Cambria", sans-serif; color: white; -webkit-text-stroke: 0.5px white; }
 
 p           {font-family: "Cambria", sans-serif; font-size: large;
              color: white; line-height: 220%;}

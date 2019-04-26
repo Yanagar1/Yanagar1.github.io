@@ -1,4 +1,4 @@
-header       { position: relative; left: 0; top: 0; width:100%;}
+header       { position: relative; left: 0; top: 0; width:100%; background-color: white;}
 
 body        {background-image: url("menu_light_on_01.gif"); width:100%; margin: 0 0 0 0; }
 

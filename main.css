@@ -3,9 +3,9 @@ body {
   background-color: lightgray;
 }
 .logo{
-  width: 10%;
+  height: 10%;
   position:fixed;
-  top: 7%;
+  top: 12%;
   border-color: black;
   border-width: medium;
   left: 45%;

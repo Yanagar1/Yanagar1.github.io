@@ -1,0 +1,56 @@
+/* */
+body {
+  background-color: lightgray;
+}
+.logo{
+  width: 10%;
+  position:fixed;
+  top: 7%;
+  border-color: black;
+  border-width: medium;
+  left: 45%;
+}
+.header {
+  background-color: rgb(40,40,40);
+  height: 17%;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  border-color: black;
+  border-style: none none solid none;
+  border-width: medium;
+}
+
+.main {
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 30%;
+}
+
+a:link {
+  font-family: verdana;
+  font-size: large;
+  color: rgb(40,40,40);
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+
+.footer {
+  background-color: rgb(40,40,40);
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  height: 15%;
+  border-color: black;
+  border-style: solid none none none;
+  border-width: medium;
+  color: gray;
+  font-size: small;
+  text-align: center;
+}

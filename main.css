@@ -53,11 +53,14 @@ p{
   position:fixed;
   top:55px;
   width: 90%;
+  height: 85%;
+  overflow-y: auto;
 }
 .portfolio_entry{
   position:relative;
   margin: 10px 10px 10px 10px;
-  background-color: rgb(83,88,95);
+  padding: 5px 5px 5px 5px;
+  background-color: rgb(103,108,115);
   border: black solid thin;
 }
 /*

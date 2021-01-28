@@ -2,6 +2,7 @@
 body {
   background-color: lightgray;
 }
+
 .logo{
   height: 10%;
   position:fixed;
@@ -17,6 +18,8 @@ body {
   position: fixed;
   left: 0;
   top: 0;
+  color: rgb(80,80,80);
+  text-align: center;
   border-color: black;
   border-style: none none solid none;
   border-width: medium;
@@ -24,7 +27,6 @@ body {
 
 .main {
   text-align: center;
-  height: 100%;
   position: fixed;
   left: 0;
   top: 30%;
@@ -39,6 +41,54 @@ a:link {
 a:hover{
   text-decoration: underline;
 }
+h3{
+  padding: 0px 0px 0px 0px;
+  font-family: verdana;
+}
+p{
+  padding: 0px 0px 0px 0px;
+  font-family: verdana;
+}
+.portfolio_main{
+  position:fixed;
+  top:55px;
+  width: 90%;
+}
+.portfolio_entry{
+  position:relative;
+  margin: 10px 10px 10px 10px;
+  background-color: rgb(150,150,150);
+  border: black solid thin;
+}
+/*
+.slide{
+  overflow: hidden;
+  border-color: black;
+  border-style: solid;
+  border-width: medium;
+}
+
+div#slide1{
+  width: 640px;
+  height: 70px;
+  position:fixed;
+  top:60px;
+}
+button{
+  height:20px;
+  width: 50px;
+  background-color: black;
+  color: lightgray;
+}
+
+button#n1{
+  position:fixed;
+  top:125px; /*the orig_btn_top
+  left:295px;
+}*/
+
+
+
 
 .footer {
   background-color: rgb(40,40,40);

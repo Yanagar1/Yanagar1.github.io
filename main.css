@@ -12,14 +12,15 @@ body {
   left: 45%;
 }
 .header {
-  background-color: rgb(40,40,40);
+  background-color: rgb(40,40,45);
   height: 17%;
   width: 100%;
   position: fixed;
   left: 0;
   top: 0;
-  color: rgb(80,80,80);
-  text-align: center;
+  color: rgb(90,105,110);
+  text-align: left;
+  font-family: georgia;
   border-color: black;
   border-style: none none solid none;
   border-width: medium;
@@ -33,35 +34,39 @@ body {
 }
 
 a:link {
-  font-family: verdana;
-  font-size: large;
-  color: rgb(40,40,40);
+  font-family: georgia;
+  font-size: medium;
+  color: rgb(40,40,45);
   text-decoration: none;
 }
 a:hover{
   text-decoration: underline;
 }
+a:visited{
+  color: rgb(40,40,45);
+}
 h3{
   padding: 0px 0px 0px 0px;
-  font-family: verdana;
+  font-family: georgia;
 }
 p{
   padding: 0px 0px 0px 0px;
-  font-family: verdana;
+  font-family: georgia;
 }
 .portfolio_main{
   position:fixed;
   top:55px;
-  width: 90%;
+  width: 95%;
   height: 85%;
   overflow-y: auto;
 }
 .portfolio_entry{
   position:relative;
-  margin: 10px 10px 10px 10px;
-  padding: 5px 5px 5px 5px;
-  background-color: rgb(103,108,115);
-  border: black solid thin;
+  color: rgb(50,50,55);
+  margin: 20px 10px 10px 10px;
+  padding: 0px 5px 5px 5px;
+  background-color: rgba(204,255,255,0.3);
+  border: rgb(102, 255, 255) solid thin;
   overflow: hidden;
 }
 /*
@@ -91,19 +96,21 @@ button#n1{
   left:295px;
 }*/
 
-
-
-
 .footer {
-  background-color: rgb(40,40,40);
+  background-color: rgb(40,40,45);
   position: fixed;
   width: 100%;
   left: 0;
   bottom: 0;
-  height: 15%;
+  height: 10%;
   border-color: black;
   border-style: solid none none none;
   border-width: medium;
+
+  outline-color: rgb(102, 255, 255);
+  outline-style: solid none none none;
+  outline-width: thin;
+
   color: gray;
   font-size: small;
   text-align: center;

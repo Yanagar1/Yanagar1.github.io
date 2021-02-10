@@ -6,7 +6,7 @@ body {
 .logo{
   height: 57px;
   position: relative;
-  top: 60px;
+  top: 50px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -31,7 +31,7 @@ body {
 .maintext {
   text-align: center;
   position:relative;
-  top: 60px;
+  top: 75px;
 }
 
 a:link {
@@ -49,16 +49,14 @@ a:visited{
 
 h3{
   padding: 0px 0px 0px 0px;
-  font-family: georgia;
 }
 p{
   padding: 0px 0px 0px 0px;
-  font-family: georgia;
 }
 
 .image_block{
   position:fixed;
-  top:87px;
+  top:88px;
   left:0;
   height: calc(100% - 137px);
   background-image: url("osaka.JPG");
@@ -67,6 +65,7 @@ p{
 }
 .portfolio_entry{
   position:relative;
+  font-family: georgia;
   color: rgb(50,50,55);
   margin: 25px 25px 25px 25px;
   padding: 0px 5px 5px 5px;
